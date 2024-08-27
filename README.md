@@ -8,6 +8,7 @@ I am a Data Scientist with a Master’s Degree in Data Science from the Universi
 
 ### Projects
 - [Credit card fraud detection classification](https://github.com/MatthewFisher126/data_mining_class/blob/main/credit-card-fraud-project.ipynb) comparing Random Forest and an ensemble approach (Random Forest + Bayesian techniques), the Random Forest algorithm outperformed the ensemble approach in most evaluation metrics (precision, recall, specificity, accuracy, Matthews Correlation Coefficient - 0.807 vs 0.797, respectively)
+  - [Paper with findings](https://github.com/MatthewFisher126/data_mining_class/blob/main/Credit%20Card%20Fraud%20Protection%20Paper.pdf)
 - Classified 25 birds using [deep learning neural networks](https://github.com/MatthewFisher126/deeplearning_class/blob/main/week6/classify-25-birds.ipynb) with a pre-trained model achieving 97% accuracy
 - Utilized CycleGANs to apply a [Monet filter](https://github.com/MatthewFisher126/deeplearning_class/blob/main/week5/GAN_project_Monet_filter.ipynb) on photos resulting in a low distance score (MiFID = 98.40)
 - Performed network analysis on Twitter data creating Twitter mentions and semantic network graphs, and utilized sentiment segmentation to look at positive and negative tweets
